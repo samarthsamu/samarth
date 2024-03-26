@@ -1,1 +1,1 @@
-print("welcome to jss")
+print("welcome to jss polytechnic")
